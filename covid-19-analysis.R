@@ -1,8 +1,8 @@
-#install.packages("dplyr")
-#install.packages("lubridate")
-#install.packages("readr")
-#install.packages("usmap")
-#install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("lubridate")
+install.packages("readr")
+install.packages("usmap")
+install.packages("ggplot2")
 
 # Function to ensure packages are downloaded
 EnsurePackage<-function(x) {
